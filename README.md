@@ -8,7 +8,7 @@
   <em>Amazon EC2 • Amazon EBS • Snapshot • Backup • Disaster Recovery</em>
 </p>
 
-## 📖 Sobre o Projeto
+### Sobre o Projeto
 
 Este laboratório teve como objetivo explorar o funcionamento do Amazon Elastic Block Store (Amazon EBS), o serviço de armazenamento em bloco da AWS utilizado por instâncias do Amazon EC2.
 
@@ -16,7 +16,7 @@ Durante a atividade foram realizados procedimentos de criação, anexação, for
 
 ---
 
-## 🎯 Objetivos
+### 🎯 Objetivos
 
 - Criar um volume Amazon EBS
 - Anexar o volume a uma instância Amazon EC2
@@ -28,13 +28,13 @@ Durante a atividade foram realizados procedimentos de criação, anexação, for
 
 ---
 
-## 🏗️ Arquitetura
+### Arquitetura
 
 (Imagem da arquitetura)
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - Amazon EC2
 - Amazon EBS
@@ -45,7 +45,7 @@ Durante a atividade foram realizados procedimentos de criação, anexação, for
 
 ---
 
-## 🔧 Etapas Executadas
+### 🔧 Etapas Executadas
 
 ### 1. Criação do Volume EBS
 
@@ -90,7 +90,7 @@ Após anexá-lo à instância, foi possível recuperar o arquivo anteriormente s
 
 ---
 
-## 💡 Principais Aprendizados
+### Principais Aprendizados
 
 ✔ Administração de armazenamento em nuvem
 
@@ -112,13 +112,13 @@ Após anexá-lo à instância, foi possível recuperar o arquivo anteriormente s
 
 ---
 
-## 🚀 Conclusão
+### Conclusão
 
 Este laboratório demonstrou como o Amazon EBS garante armazenamento persistente para instâncias EC2 e como os Snapshots possibilitam estratégias eficientes de backup, recuperação e continuidade de negócios.
 
 Esses conceitos são fundamentais para arquiteturas resilientes na AWS, reduzindo riscos de perda de dados e aumentando a disponibilidade das aplicações.
 
-## 👩‍💻 Autora
+### Autora
 
 <p align="center">
 
