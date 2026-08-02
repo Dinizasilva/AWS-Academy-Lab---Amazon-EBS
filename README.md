@@ -1,6 +1,6 @@
 ## AWS-Academy-Lab--Amazon-EBS
 
-![Arquitetura AWS](./Arquitetura.png)
+![Capa do Laboratório](./capa-lab.png)
 
 ### Sobre o Projeto
 
