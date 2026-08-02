@@ -92,23 +92,23 @@ Após anexá-lo à instância, foi possível recuperar o arquivo anteriormente s
 
 ### Principais Aprendizados
 
-✔ Administração de armazenamento em nuvem
+*Administração de armazenamento em nuvem
 
-✔ Persistência de dados
+*Persistência de dados
 
-✔ Recuperação de desastres
+*Recuperação de desastres
 
-✔ Estratégias de Backup
+*Estratégias de Backup
 
-✔ Amazon EBS
+*Amazon EBS
 
-✔ Snapshots
+*Snapshots
 
-✔ Linux File System
+*Linux File System
 
-✔ Montagem de volumes
+*Montagem de volumes
 
-✔ Boas práticas em Infraestrutura como Serviço (IaaS)
+*Boas práticas em Infraestrutura como Serviço (IaaS)
 
 ---
 
