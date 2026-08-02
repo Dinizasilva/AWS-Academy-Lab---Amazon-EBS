@@ -1,7 +1,7 @@
 ## AWS-Academy-Lab--Amazon-EBS
 
 <p align="center">
-  <img src="./capa-lab.png" width="700">
+  <img src="./capa-lab.png" width="600">
 </p>
 
 ### Sobre o Projeto
