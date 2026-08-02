@@ -1,6 +1,6 @@
 ## AWS-Academy-Lab--Amazon-EBS
 
-![Arquitetura AWS](https://raw.githubusercontent.com/Dinizasilva/AWS-Aademy-lab---Amazon-EBS/main/arquitetura.png)
+![Arquitetura AWS](https://raw.githubusercontent.com/Dinizasilva/AWS-Academy-Lab---Amazon-EBS/main/Arquitetura.png)
 
 ### Sobre o Projeto
 
