@@ -1,12 +1,6 @@
 ## AWS-Academy-Lab--Amazon-EBS
 
-<p align="center">
-  <img src="images/amazon-ebs-lab.png" alt="Amazon EBS Lab" width="600">
-</p>
-
-<p align="center">
-  <em>Amazon EC2 • Amazon EBS • Snapshot • Backup • Disaster Recovery</em>
-</p>
+![Arquitetura AWS](https://raw.githubusercontent.com/seuusuario/seurepositorio/main/imagens/arquitetura.png)
 
 ### Sobre o Projeto
 
